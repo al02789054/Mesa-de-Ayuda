@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>me.jmll</groupId>
 	<artifactId>utm</artifactId>
-	<name>CS13304</name>
+	<name>MesaAyuda</name>
 	<packaging>war</packaging>
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
@@ -261,5 +261,5 @@
             </plugin>
 		</plugins>
 	</build>
-	<url>https://github.com/jm66/CS13304</url>
+	<url>https://github.com/al02789054/Mesa-de-Ayuda.git</url>
 </project>
