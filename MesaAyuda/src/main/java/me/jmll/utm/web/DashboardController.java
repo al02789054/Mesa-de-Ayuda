@@ -22,4 +22,5 @@ public class DashboardController {
 		log.info("Dashboard call");
         return "dashboard/home";
     }
+	
 }

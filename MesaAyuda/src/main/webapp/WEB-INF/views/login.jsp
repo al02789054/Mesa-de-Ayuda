@@ -12,7 +12,7 @@
 		</form:form>
 		<br/>
 		<div>
-			<c:if test="${not empty loginWarnings }">
+					<c:if test="${not empty loginWarnings }">
 				<c:forEach var="warning" items="${loginWarnings}">
 					<div class="alert alert-info" role="alert">${warning}</div>
 				</c:forEach>

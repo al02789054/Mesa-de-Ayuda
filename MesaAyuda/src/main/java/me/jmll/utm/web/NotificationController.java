@@ -19,6 +19,7 @@ import me.jmll.utm.view.NotificationView;
 public class NotificationController {
 	private static final Logger logger = LogManager.getLogger();
 	
+	
 	@Autowired
 	NotificationService notificationService;
 	

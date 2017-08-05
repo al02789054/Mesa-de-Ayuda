@@ -12,4 +12,5 @@ public class IndexController
     public View index() {
         return new RedirectView("/dashboard/home", true, false);
     }
+    
 }

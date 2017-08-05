@@ -25,6 +25,7 @@ public class DownloadView implements View {
         this.bytes = bytes;
     }
 
+    
     @Override
     public String getContentType() {
         return this.contentType;

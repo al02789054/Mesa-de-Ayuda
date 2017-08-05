@@ -7,6 +7,7 @@ public class ErrorInfo {
     private String message;
     private String status;
 
+    
     public ErrorInfo(String url, String code, Exception ex) {
         this.setHref(url);
         this.setMessage(ex.getLocalizedMessage());

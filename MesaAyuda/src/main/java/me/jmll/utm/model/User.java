@@ -4,6 +4,7 @@ import java.io.Serializable;
 
 import javax.xml.bind.annotation.XmlRootElement;
 
+
 /**
  * POJO con capacidad de serializar
  * 

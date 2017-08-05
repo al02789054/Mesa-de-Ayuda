@@ -29,6 +29,7 @@ public class CreateUserController {
 		return "createuser/newuser";
 	}
 	
+	
 	@RequestMapping(value = "new",
 			method = RequestMethod.POST)
 	public String addUser(Map<String, Object> model, 

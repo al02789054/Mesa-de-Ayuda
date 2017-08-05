@@ -15,6 +15,7 @@ public class NotificationView implements View {
 		this.contentType = contentType;
 	}
 	
+	
 	@Override
 	public String getContentType() {
 		return this.contentType;

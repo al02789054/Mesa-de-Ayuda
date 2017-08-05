@@ -29,6 +29,7 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 
+
 /**
  * Establece el escaneo de componentes del paquete me.jmll.utm.web con filtro de
  * exclusión org.springframework.stereotype.Controller, es

@@ -19,6 +19,7 @@ public class ScheduledTasks {
 	private static final Logger logger = LogManager.getLogger();
     private static final SimpleDateFormat dateFormat = new SimpleDateFormat("HH:mm:ss");
 
+    
     /**
      * Ejecución por medio de intervalo
      * */

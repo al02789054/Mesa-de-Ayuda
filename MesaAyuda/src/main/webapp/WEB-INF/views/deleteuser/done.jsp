@@ -1,6 +1,5 @@
 <b:base title="Delete User Complete">
     <div class="container">
-
       <!-- Static navbar -->
       <nav class="navbar navbar-default">
         <div class="container-fluid">

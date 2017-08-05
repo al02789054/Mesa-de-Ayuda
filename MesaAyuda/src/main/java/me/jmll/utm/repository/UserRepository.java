@@ -10,6 +10,7 @@ public interface UserRepository {
 	public boolean login(String username, String password);
 	public void deleteUser(String username);
 	public User updateUser(User user);
+	
 }
 
 

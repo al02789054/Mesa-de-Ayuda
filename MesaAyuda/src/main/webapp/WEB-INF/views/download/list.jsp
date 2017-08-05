@@ -1,6 +1,5 @@
 <b:base title="List Complete">
     <div class="container">
-
       <!-- Static navbar -->
       <nav class="navbar navbar-default">
         <div class="container-fluid">

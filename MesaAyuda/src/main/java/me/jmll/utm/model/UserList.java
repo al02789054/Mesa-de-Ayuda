@@ -1,5 +1,6 @@
 package me.jmll.utm.model;
 
+
 import java.util.List;
 
 import javax.xml.bind.annotation.XmlElement;

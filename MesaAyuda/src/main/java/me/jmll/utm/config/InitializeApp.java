@@ -19,6 +19,7 @@ public class InitializeApp implements WebApplicationInitializer
     public void onStartup(ServletContext container) throws ServletException
     {
     	
+    	
         container.getServletRegistration("default").addMapping("/resource/*");
         /**
          * Crea e inicializa Spring Root Context

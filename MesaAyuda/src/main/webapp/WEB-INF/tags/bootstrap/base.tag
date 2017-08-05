@@ -2,7 +2,6 @@
 <%@ attribute name="title" type="java.lang.String" rtexprvalue="true" required="true" %>
 <%@ attribute name="lang" type="java.lang.String" rtexprvalue="true" required="false" %>
 <%@ include file="/WEB-INF/includes/base.jspf" %>
-
 <!DOCTYPE html>
 <html lang="${not empty lang ? lang : 'en_US'}">
 	<title>${title}</title>

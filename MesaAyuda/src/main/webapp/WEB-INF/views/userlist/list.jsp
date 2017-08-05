@@ -14,7 +14,7 @@
             </button>
             <a class="navbar-brand" href="#">CS13304</a>
           </div>
-          <div id="navbar" class="navbar-collapse collapse">
+                    <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
               <li><a href="${pageContext.request.contextPath}">Home</a></li>
               <li><a href="${pageContext.request.contextPath}/upload">Upload</a></li>

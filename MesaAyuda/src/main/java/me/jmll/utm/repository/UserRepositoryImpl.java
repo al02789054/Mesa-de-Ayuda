@@ -22,6 +22,7 @@ import me.jmll.utm.model.User;
 			userDB.put("shaak", new User("shaak", "ti", "Shaak Ti"));
 			userDB.put("vega", new User("vega", "1234", "Gerardo Vega"));
 		}
+		
 	
 		@Override
 		public List<User> getUsers() {

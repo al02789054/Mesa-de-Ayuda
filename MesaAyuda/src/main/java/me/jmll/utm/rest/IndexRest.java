@@ -19,6 +19,7 @@ import java.util.Map;
 @Controller
 public class IndexRest {
 	
+	
 	/**
 	 * Genera indice con Hypermedia para JSON
 	 * */

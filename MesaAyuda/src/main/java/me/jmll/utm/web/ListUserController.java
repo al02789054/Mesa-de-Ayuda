@@ -23,6 +23,7 @@ public class ListUserController {
 	private static final Logger logger = LogManager.getLogger();
 	
 
+	
 	@RequestMapping(value = "userlist",
 			method = RequestMethod.GET)
 	public String getUserList(Map<String, Object> model, 

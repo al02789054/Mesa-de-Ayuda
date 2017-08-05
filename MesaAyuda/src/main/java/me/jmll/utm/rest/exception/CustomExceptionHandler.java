@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.ResponseStatus;
 import me.jmll.utm.model.ErrorInfo;
 import me.jmll.utm.model.Errors;
 
+
 @ControllerAdvice
 public class CustomExceptionHandler {
 	@ExceptionHandler(ResourceNotFoundException.class)

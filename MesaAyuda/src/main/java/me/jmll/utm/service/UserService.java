@@ -4,6 +4,7 @@ import java.util.List;
 
 import me.jmll.utm.model.User;
 
+
 public interface UserService {
 	public List<User> getUsers();
 	public User getUser(String username);

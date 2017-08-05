@@ -27,6 +27,7 @@ import me.jmll.utm.service.UserService;
 	    @Autowired
 	    UserService userService;
 	    
+	    
 	    @RequestMapping(value = "login", 
 	    				method = RequestMethod.GET)
 	    public ModelAndView login(Map<String, Object> model, HttpSession session) {

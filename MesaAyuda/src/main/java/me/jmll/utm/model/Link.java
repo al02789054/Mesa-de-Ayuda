@@ -2,6 +2,7 @@ package me.jmll.utm.model;
 
 import javax.xml.bind.annotation.XmlAttribute;
 
+
 public class Link {
 	private String href;
 	private String rel;

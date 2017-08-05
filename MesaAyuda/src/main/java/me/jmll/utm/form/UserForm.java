@@ -5,6 +5,7 @@ public class UserForm {
     private String password;
     private String fullName;
 
+    
     public String getUsername(){
         return username;
     }
